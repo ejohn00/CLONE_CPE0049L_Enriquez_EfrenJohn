@@ -1,0 +1,3 @@
+be75873 Merge pull request #4 from ejohn00/feature-user-profile
+7cf2db0 feat: added basic profile logic. Resolves #3
+a9abd6a Merge pull request #2 from ejohn00/feature-math-logic
