@@ -46,3 +46,4 @@ if __name__ == "__main__":
         total += penalty
 
     printer.print_report(processed, total)
+    

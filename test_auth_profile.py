@@ -19,3 +19,4 @@ def test_verify_invalid_token():
     decoded = verify_token("this_is_not_a_valid_token")
 
     assert decoded is None
+    
